@@ -1,0 +1,16 @@
+# Jupyter Notebook support
+notebook
+ipykernel
+
+# HTTP requests for FHIR REST APIs
+requests
+
+# FHIR R4 resource models
+fhir.resources
+
+# FHIRPath evaluation
+fhirpathpy
+
+# Common data analysis & visualization (useful for later lessons)
+pandas
+matplotlib
